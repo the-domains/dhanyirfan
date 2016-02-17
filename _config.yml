@@ -1,8 +1,20 @@
-layout_spectrum: 0.3764769
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5504833
 color:
   saturation: 0.2132116
   brandStrength: 0.7772732
-  lightness: 0.5526316
   rhythmicContrast: 0.2851772
-typography_spectrum: 0.5504833
+  lightness: 0.5526316
+layout_spectrum: 0.6482278
 name: DhanyIrfan
