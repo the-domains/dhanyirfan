@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T00:42:04.093Z'
-dateModified: '2016-02-18T00:41:31.471Z'
+datePublished: '2016-02-18T00:43:34.379Z'
+dateModified: '2016-02-18T00:42:46.574Z'
 author: []
-title: Start for Grid
+title: Start Menjajal The Grid
 sourcePath: _posts/2016-02-17-start-for-grid.md
 published: true
 authors: []
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Start for Grid
+# Start Menjajal The Grid
 
 Setelah kurang lebih 2 tahun, akhirnya saya bisa mulai menjelajahi media yang satu ini. Masih beta, tapi lumayan ada sesuatu yang bisa di pelajari dengan konsep mereka yang super baru.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ebd76fc-2351-48b0-b753-3adebd0d722c.png)
