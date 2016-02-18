@@ -1,3 +1,7 @@
+name: DhanyIrfan
+favicon: null
+layout_spectrum: 0.6482278
+typography_spectrum: 0.5504833
 collections:
   - index:
       path: /
@@ -10,11 +14,23 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5504833
+title: Dhany Irfan
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2132116
+  brandColors: []
   brandStrength: 0.7772732
-  rhythmicContrast: 0.2851772
   lightness: 0.5526316
-layout_spectrum: 0.6482278
-name: DhanyIrfan
+  saturation: 0.2132116
+  rhythmicContrast: 0.2851772
+purpose: []
