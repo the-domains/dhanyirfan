@@ -1,41 +1,41 @@
-name: DhanyIrfan
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.55974
+title: Dhany Irfan
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Dhany Irfan
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0
+  brandStrength: 0.5
+  lightness: 0.7649254
   brandColors:
     - '#ffffff'
     - '#b6b6b6'
     - '#dd4833'
     - '#109d56'
     - '#424242'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
   rhythmicContrast: 0.25
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: DhanyIrfan
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.55974
+layout_spectrum: 0
