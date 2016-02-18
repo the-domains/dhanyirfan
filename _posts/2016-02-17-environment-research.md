@@ -1,21 +1,27 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:b72af661-db78-42e9-bb90-0f65b5001eea'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-02-18T00:31:28.350Z'
+dateModified: '2016-02-18T00:28:19.998Z'
 author: []
-datePublished: '2016-02-17T22:24:24.542Z'
-publisher:
-  domain: ''
-  name: ''
-title: Environment Research
-dateModified: '2016-02-17T22:24:21.375Z'
+title: Riset Tanaman Untuk Environment Film 3 Dimensi
 sourcePath: _posts/2016-02-17-environment-research.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: environment-research/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Environment Research
+# Riset Tanaman Untuk Environment Film 3 Dimensi
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2374aa2c-86a8-434f-b4bc-d0361b5f3dff.png)
