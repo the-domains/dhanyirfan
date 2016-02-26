@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0
   brandStrength: 0.5
-  lightness: 0.7649254
+  lightness: 0.5644469
   brandColors:
     - '#ffffff'
     - '#b6b6b6'
     - '#dd4833'
     - '#109d56'
     - '#424242'
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: DhanyIrfan
 favicon: null
+name: DhanyIrfan
 opengraph:
   image: null
   type: null
